@@ -1,0 +1,11 @@
+,name,species,height,films
+0,R2-D2,['https://swapi.dev/api/species/2/'],96,6
+1,Yoda,['https://swapi.dev/api/species/6/'],66,5
+2,Chewbacca,['https://swapi.dev/api/species/3/'],228,4
+3,Darth Vader,[],202,4
+4,Obi-Wan Kenobi,[],182,6
+5,Owen Lars,[],178,3
+6,Luke Skywalker,[],172,4
+7,Palpatine,[],170,5
+8,C-3PO,['https://swapi.dev/api/species/2/'],167,6
+9,Leia Organa,[],150,4
